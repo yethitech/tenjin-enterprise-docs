@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktenjin_enterprise_docs=self.webpackChunktenjin_enterprise_docs||[]).push([[8901],{1385:e=>{e.exports=JSON.parse('{"permalink":"/tenjin-enterprise-docs/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

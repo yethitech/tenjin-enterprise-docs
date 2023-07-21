@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktenjin_enterprise_docs=self.webpackChunktenjin_enterprise_docs||[]).push([[9825],{4255:e=>{e.exports=JSON.parse('{"permalink":"/tenjin-enterprise-docs/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

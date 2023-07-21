@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktenjin_enterprise_docs=self.webpackChunktenjin_enterprise_docs||[]).push([[6617],{9098:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/tenjin-enterprise-docs/blog/tags/hola","allTagsPath":"/tenjin-enterprise-docs/blog/tags","count":1}')}}]);
